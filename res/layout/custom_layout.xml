@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:crf="http://schemas.android.com/apk/res/org.crf.project"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <org.crf.project.views.CRFImage
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        crf:crf_image="@drawable/crf_logo"
+        crf:footnote_string="@string/app_name"
+        crf:message_string="This will be shown in a toast" >
+    </org.crf.project.views.CRFImage>
+
+</LinearLayout>

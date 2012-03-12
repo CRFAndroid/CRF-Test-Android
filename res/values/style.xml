@@ -1,0 +1,35 @@
+<resources>
+
+    <style name="PinkHeader" parent="@android:style/TextAppearance.Large">
+        <item name="android:textColor">#FF1493</item>
+    </style>
+    
+    <style name="GreenHeader">
+        <item name="android:textColor">#c1f554</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="WhiteSubHeader">
+        <item name="android:textColor">#fafcf9</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="NormalText">
+        <item name="android:typeface">normal</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="NormalText.Red">
+        <item name="android:textColor">#107C99</item>
+    </style>
+    
+    <style name="NormalText.Red.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

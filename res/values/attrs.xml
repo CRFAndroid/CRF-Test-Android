@@ -1,0 +1,7 @@
+<resources>
+	<declare-styleable name="CRFImage">
+		<attr name="message_string" format="string" />
+		<attr name="footnote_string" format="string" />
+		<attr name="crf_image" format="integer" />
+    </declare-styleable>
+</resources>
