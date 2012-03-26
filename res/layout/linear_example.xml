@@ -8,12 +8,12 @@
         android:id="@+id/button1"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Un botón" />
+        android:text="Un boton(es)" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Dos botones" />
+        android:text="Dos boton(es)" />
 
 </LinearLayout>
