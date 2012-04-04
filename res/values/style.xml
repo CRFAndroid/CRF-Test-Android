@@ -1,8 +1,5 @@
 <resources>
 
-    <style name="PinkHeader" parent="@android:style/TextAppearance.Large">
-        <item name="android:textColor">#FF1493</item>
-    </style>
     
     <style name="GreenHeader">
         <item name="android:textColor">#c1f554</item>
